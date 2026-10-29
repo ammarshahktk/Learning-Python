@@ -1,0 +1,4 @@
+Ammar,100
+Arbab,50
+Yousuf,200
+Waris,500

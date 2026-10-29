@@ -1,0 +1,4 @@
+Ammar's salary is 100
+Arbab's salary is 50
+Yousuf's salary is 200
+Waris's salary is 500
